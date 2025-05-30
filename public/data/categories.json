@@ -1,0 +1,5 @@
+[
+  { "name": "Электроника", "file": "electronics.json", "icon": "electronics" },
+  { "name": "Одежда", "file": "clothes.json", "icon": "clothes" },
+  { "name": "Игрушки", "file": "toys.json", "icon": "toys" }
+]
