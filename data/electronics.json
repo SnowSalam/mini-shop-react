@@ -3,180 +3,180 @@
     "id": 1,
     "name": "Ноутбук A",
     "price": 10000,
-    "image": "/data/pexels-pixabay-electronics.jpg"
+    "image": "data/pexels-pixabay-electronics.jpg"
   },
   {
     "id": 2,
     "name": "Наушники B",
     "price": 1000,
-    "image": "/data/pexels-pixabay-electronics.jpg"
+    "image": "data/pexels-pixabay-electronics.jpg"
   },
   {
     "id": 3,
     "name": "Мышь C",
     "price": 1000,
-    "image": "/data/pexels-pixabay-electronics.jpg"
+    "image": "data/pexels-pixabay-electronics.jpg"
   },
   {
     "id": 4,
     "name": "Клавиатура D",
     "price": 1200,
-    "image": "/data/pexels-pixabay-electronics.jpg"
+    "image": "data/pexels-pixabay-electronics.jpg"
   },
   {
     "id": 5,
     "name": "Коврик E",
     "price": 500,
-    "image": "/data/pexels-pixabay-electronics.jpg"
+    "image": "data/pexels-pixabay-electronics.jpg"
   },
   {
     "id": 6,
     "name": "Микрофон F",
     "price": 600,
-    "image": "/data/pexels-pixabay-electronics.jpg"
+    "image": "data/pexels-pixabay-electronics.jpg"
   },
   {
     "id": 7,
     "name": "Жесткий диск G",
     "price": 3000,
-    "image": "/data/pexels-pixabay-electronics.jpg"
+    "image": "data/pexels-pixabay-electronics.jpg"
   },
   {
     "id": 8,
     "name": "Видеокарта H",
     "price": 5000,
-    "image": "/data/pexels-pixabay-electronics.jpg"
+    "image": "data/pexels-pixabay-electronics.jpg"
   },
   {
     "id": 9,
     "name": "Процессор I",
     "price": 4000,
-    "image": "/data/pexels-pixabay-electronics.jpg"
+    "image": "data/pexels-pixabay-electronics.jpg"
   },
   {
     "id": 10,
     "name": "Звуковая карта J",
     "price": 1100,
-    "image": "/data/pexels-pixabay-electronics.jpg"
+    "image": "data/pexels-pixabay-electronics.jpg"
   },
   {
     "id": 11,
     "name": "Вентилятор K",
     "price": 200,
-    "image": "/data/pexels-pixabay-electronics.jpg"
+    "image": "data/pexels-pixabay-electronics.jpg"
   },
   {
     "id": 12,
     "name": "Монитор L",
     "price": 6000,
-    "image": "/data/pexels-pixabay-electronics.jpg"
+    "image": "data/pexels-pixabay-electronics.jpg"
   },
   {
     "id": 13,
     "name": "Оперативная память M",
     "price": 400,
-    "image": "/data/pexels-pixabay-electronics.jpg"
+    "image": "data/pexels-pixabay-electronics.jpg"
   },
   {
     "id": 14,
     "name": "Материнская плата N",
     "price": 900,
-    "image": "/data/pexels-pixabay-electronics.jpg"
+    "image": "data/pexels-pixabay-electronics.jpg"
   },
   {
     "id": 15,
     "name": "Блок питания O",
     "price": 300,
-    "image": "/data/pexels-pixabay-electronics.jpg"
+    "image": "data/pexels-pixabay-electronics.jpg"
   },
   {
     "id": 16,
     "name": "Динамик P",
     "price": 600,
-    "image": "/data/pexels-pixabay-electronics.jpg"
+    "image": "data/pexels-pixabay-electronics.jpg"
   },
   {
     "id": 17,
     "name": "Сабвуфер Q",
     "price": 400,
-    "image": "/data/pexels-pixabay-electronics.jpg"
+    "image": "data/pexels-pixabay-electronics.jpg"
   },
   {
     "id": 18,
     "name": "Переходник R",
     "price": 80,
-    "image": "/data/pexels-pixabay-electronics.jpg"
+    "image": "data/pexels-pixabay-electronics.jpg"
   },
   {
     "id": 19,
     "name": "Кабель S",
     "price": 70,
-    "image": "/data/pexels-pixabay-electronics.jpg"
+    "image": "data/pexels-pixabay-electronics.jpg"
   },
   {
     "id": 20,
     "name": "Моноблок T",
     "price": 9000,
-    "image": "/data/pexels-pixabay-electronics.jpg"
+    "image": "data/pexels-pixabay-electronics.jpg"
   },
   {
     "id": 21,
     "name": "Веб-камера U",
     "price": 500,
-    "image": "/data/pexels-pixabay-electronics.jpg"
+    "image": "data/pexels-pixabay-electronics.jpg"
   },
   {
     "id": 22,
     "name": "Оптический привод V",
     "price": 300,
-    "image": "/data/pexels-pixabay-electronics.jpg"
+    "image": "data/pexels-pixabay-electronics.jpg"
   },
   {
     "id": 23,
     "name": "Карта видеозахвата W",
     "price": 250,
-    "image": "/data/pexels-pixabay-electronics.jpg"
+    "image": "data/pexels-pixabay-electronics.jpg"
   },
   {
     "id": 24,
     "name": "USB-разветвитель X",
     "price": 200,
-    "image": "/data/pexels-pixabay-electronics.jpg"
+    "image": "data/pexels-pixabay-electronics.jpg"
   },
   {
     "id": 25,
     "name": "Проектор Y",
     "price": 1500,
-    "image": "/data/pexels-pixabay-electronics.jpg"
+    "image": "data/pexels-pixabay-electronics.jpg"
   },
   {
     "id": 26,
     "name": "Плата Arduino Z",
     "price": 30,
-    "image": "/data/pexels-pixabay-electronics.jpg"
+    "image": "data/pexels-pixabay-electronics.jpg"
   },
   {
     "id": 27,
     "name": "Диктофон A",
     "price": 50,
-    "image": "/data/pexels-pixabay-electronics.jpg"
+    "image": "data/pexels-pixabay-electronics.jpg"
   },
   {
     "id": 28,
     "name": "Электронная книга B",
     "price": 3000,
-    "image": "/data/pexels-pixabay-electronics.jpg"
+    "image": "data/pexels-pixabay-electronics.jpg"
   },
   {
     "id": 29,
     "name": "Wi-Fi роутер C",
     "price": 200,
-    "image": "/data/pexels-pixabay-electronics.jpg"
+    "image": "data/pexels-pixabay-electronics.jpg"
   },
   {
     "id": 30,
     "name": "Светодиодная лента D, 1м",
     "price": 10,
-    "image": "/data/pexels-pixabay-electronics.jpg"
+    "image": "data/pexels-pixabay-electronics.jpg"
   }
 ]
