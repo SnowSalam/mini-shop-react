@@ -6,15 +6,15 @@ import { FaRegHeart } from "react-icons/fa";
 import { GrBasket } from "react-icons/gr";
 import './styles/Header.css';
 
-function Header() {
+function Header({ onCartClick }) {
 
     return (
         <header>
             <div className="part-top">
                 <div className="area-menu">
-                    <a href='#'>Оплата</a>
-                    <a href='#'>Доставка</a>
-                    <a href='#'>Возврат</a>
+                    <a href='#root'>Оплата</a>
+                    <a href='#root'>Доставка</a>
+                    <a href='#root'>Возврат</a>
                 </div>
                 <div className="area-contacts">
                     <ContactsButton />
@@ -26,12 +26,14 @@ function Header() {
                     <span>ShopName</span>
                 </div>
                 <div className="area-longimg">
-                    <img src={LongImage} alt="long image" />
+                    <img src={LongImage} alt="long" />
                 </div>
                 <div className="area-controls">
-                    <a href='#'><CgProfile className="control-icon"/></a>
-                    <a href='#'><FaRegHeart className="control-icon"/></a>
-                    <a href='#'><GrBasket className="control-icon"/></a>
+                    <a href='#root'><CgProfile className="control-icon"/></a>
+                    <a href='#root'><FaRegHeart className="control-icon"/></a>
+                    <button onClick={onCartClick} className="control-icon-button">
+                        <GrBasket className="control-icon" />
+                    </button>
                 </div>
             </div>
         </header>

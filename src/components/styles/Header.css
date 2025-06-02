@@ -79,4 +79,20 @@ header {
 .control-icon {
     width: 30px;
     height: 30px;
+    color: darkblue;
+    transition: color 0.1s ease-out;
+}
+
+.control-icon:hover {
+    color: blue;
+}
+
+.control-icon:active {
+    color: brown;
+}
+
+.control-icon-button {
+    background: none;
+    border: none;
+    cursor: pointer;
 }

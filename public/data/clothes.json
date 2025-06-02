@@ -1,180 +1,180 @@
 [
   {
-    "id": 1,
+    "id": 31,
     "name": "Рубашка A",
     "price": 200,
     "image": "/data/pexels-berra-clothes.jpg"
   },
   {
-    "id": 2,
+    "id": 32,
     "name": "Блузка B",
     "price": 150,
     "image": "/data/pexels-berra-clothes.jpg"
   },
   {
-    "id": 3,
+    "id": 33,
     "name": "Брюки C",
     "price": 250,
     "image": "/data/pexels-berra-clothes.jpg"
   },
   {
-    "id": 4,
+    "id": 34,
     "name": "Бриджи D",
     "price": 250,
     "image": "/data/pexels-berra-clothes.jpg"
   },
   {
-    "id": 5,
+    "id": 35,
     "name": "Джинсы E",
     "price": 200,
     "image": "/data/pexels-berra-clothes.jpg"
   },
   {
-    "id": 6,
+    "id": 36,
     "name": "Шорты F",
     "price": 150,
     "image": "/data/pexels-berra-clothes.jpg"
   },
   {
-    "id": 7,
+    "id": 37,
     "name": "Комбинезон G",
     "price": 300,
     "image": "/data/pexels-berra-clothes.jpg"
   },
   {
-    "id": 8,
+    "id": 38,
     "name": "Свитер H",
     "price": 300,
     "image": "/data/pexels-berra-clothes.jpg"
   },
   {
-    "id": 9,
+    "id": 39,
     "name": "Кофта I",
     "price": 300,
     "image": "/data/pexels-berra-clothes.jpg"
   },
   {
-    "id": 10,
+    "id": 40,
     "name": "Пиджак J",
     "price": 350,
     "image": "/data/pexels-berra-clothes.jpg"
   },
   {
-    "id": 11,
+    "id": 41,
     "name": "Футболка K",
     "price": 150,
     "image": "/data/pexels-berra-clothes.jpg"
   },
   {
-    "id": 12,
+    "id": 42,
     "name": "Майка L",
     "price": 80,
     "image": "/data/pexels-berra-clothes.jpg"
   },
   {
-    "id": 13,
+    "id": 43,
     "name": "Платье M",
     "price": 120,
     "image": "/data/pexels-berra-clothes.jpg"
   },
   {
-    "id": 14,
+    "id": 44,
     "name": "Туника N",
     "price": 130,
     "image": "/data/pexels-berra-clothes.jpg"
   },
   {
-    "id": 15,
+    "id": 45,
     "name": "Жилет O",
     "price": 200,
     "image": "/data/pexels-berra-clothes.jpg"
   },
   {
-    "id": 16,
+    "id": 46,
     "name": "Ветровка P",
     "price": 250,
     "image": "/data/pexels-berra-clothes.jpg"
   },
   {
-    "id": 17,
+    "id": 47,
     "name": "Куртка Q",
     "price": 300,
     "image": "/data/pexels-berra-clothes.jpg"
   },
   {
-    "id": 18,
+    "id": 48,
     "name": "Пальто R",
     "price": 300,
     "image": "/data/pexels-berra-clothes.jpg"
   },
   {
-    "id": 19,
+    "id": 49,
     "name": "Плащ S",
     "price": 270,
     "image": "/data/pexels-berra-clothes.jpg"
   },
   {
-    "id": 20,
+    "id": 50,
     "name": "Пуховик T",
     "price": 400,
     "image": "/data/pexels-berra-clothes.jpg"
   },
   {
-    "id": 21,
+    "id": 51,
     "name": "Шуба U",
     "price": 350,
     "image": "/data/pexels-berra-clothes.jpg"
   },
   {
-    "id": 22,
+    "id": 52,
     "name": "Галстук V",
     "price": 40,
     "image": "/data/pexels-berra-clothes.jpg"
   },
   {
-    "id": 23,
+    "id": 53,
     "name": "Халат W",
     "price": 60,
     "image": "/data/pexels-berra-clothes.jpg"
   },
   {
-    "id": 24,
+    "id": 54,
     "name": "Шапка X",
     "price": 50,
     "image": "/data/pexels-berra-clothes.jpg"
   },
   {
-    "id": 25,
+    "id": 55,
     "name": "Шляпа Y",
     "price": 70,
     "image": "/data/pexels-berra-clothes.jpg"
   },
   {
-    "id": 26,
+    "id": 56,
     "name": "Кепка Z",
     "price": 30,
     "image": "/data/pexels-berra-clothes.jpg"
   },
   {
-    "id": 27,
+    "id": 57,
     "name": "Панама A",
     "price": 20,
     "image": "/data/pexels-berra-clothes.jpg"
   },
   {
-    "id": 28,
+    "id": 58,
     "name": "Ушанка B",
     "price": 100,
     "image": "/data/pexels-berra-clothes.jpg"
   },
   {
-    "id": 29,
+    "id": 59,
     "name": "Бандана C",
     "price": 30,
     "image": "/data/pexels-berra-clothes.jpg"
   },
   {
-    "id": 30,
+    "id": 60,
     "name": "Платок D",
     "price": 30,
     "image": "/data/pexels-berra-clothes.jpg"

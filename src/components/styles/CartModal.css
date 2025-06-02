@@ -1,0 +1,68 @@
+.cart-modal {
+    position: absolute;
+    z-index: 10;
+    top: 80px;
+    right: 30px;
+    width: 350px;
+    max-height: 500px;
+    background-color: white;
+    border-radius: 15px;
+    border: 1px solid blue;
+}
+
+.cart-modal-close-button {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 30px;
+    height: 30px;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.close-button-icon {
+    width: 20px;
+    height: 20px;
+}
+
+.cart-list {
+    padding-left: 5px;
+    width: 100%;
+    max-height: 300px;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.cart-list-element {
+    font-size: 1.1rem;
+}
+
+.cart-sum {
+    margin: 10px;
+    font-size: 1.2rem;
+}
+
+.cart-modal-buy-button {
+    margin-bottom: 10px;
+    margin-left: 35%;
+    height: 2rem;
+    width: 100px;
+    border: 1px solid blue;
+    border-radius: 7px;
+    background-color: dodgerblue;
+    color: white;
+    font-size: 1.3rem;
+    transition: background-color 0.2s ease-out;
+    cursor: pointer;
+}
+
+.cart-modal-buy-button:hover {
+    background-color: blue;
+}
+
+.cart-modal-buy-button:active {
+    background-color: brown;
+}
