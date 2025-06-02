@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/mini-shop-react/static/css/main.3048c285.css",
-    "main.js": "/mini-shop-react/static/js/main.7e94df1a.js",
-    "static/media/pexels-suzyhazelwood-2309235.jpg": "/mini-shop-react/static/media/pexels-suzyhazelwood-2309235.e347d54ac96c9d461d30.jpg",
-    "static/media/pexels-stephanthem-753876.jpg": "/mini-shop-react/static/media/pexels-stephanthem-753876.1c114f51c8a89e54be93.jpg",
-    "static/media/ShopLogo.png": "/mini-shop-react/static/media/ShopLogo.ddac6987fa1958259872.png",
-    "index.html": "/mini-shop-react/index.html",
-    "main.3048c285.css.map": "/mini-shop-react/static/css/main.3048c285.css.map",
-    "main.7e94df1a.js.map": "/mini-shop-react/static/js/main.7e94df1a.js.map"
+    "main.css": "/static/css/main.7e192bba.css",
+    "main.js": "/static/js/main.ed7a0978.js",
+    "static/media/pexels-suzyhazelwood-2309235.jpg": "/static/media/pexels-suzyhazelwood-2309235.e347d54ac96c9d461d30.jpg",
+    "static/media/pexels-stephanthem-753876.jpg": "/static/media/pexels-stephanthem-753876.1c114f51c8a89e54be93.jpg",
+    "static/media/ShopLogo.png": "/static/media/ShopLogo.ddac6987fa1958259872.png",
+    "index.html": "/index.html",
+    "main.7e192bba.css.map": "/static/css/main.7e192bba.css.map",
+    "main.ed7a0978.js.map": "/static/js/main.ed7a0978.js.map"
   },
   "entrypoints": [
-    "static/css/main.3048c285.css",
-    "static/js/main.7e94df1a.js"
+    "static/css/main.7e192bba.css",
+    "static/js/main.ed7a0978.js"
   ]
 }

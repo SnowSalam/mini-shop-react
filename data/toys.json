@@ -1,180 +1,180 @@
 [
   {
-    "id": 1,
+    "id": 61,
     "name": "Кубики A",
     "price": 50,
     "image": "data/pexels-mikebirdy-toys.jpg"
   },
   {
-    "id": 2,
+    "id": 62,
     "name": "Палочки B",
     "price": 10,
     "image": "data/pexels-mikebirdy-toys.jpg"
   },
   {
-    "id": 3,
+    "id": 63,
     "name": "Погремушка C",
     "price": 20,
     "image": "data/pexels-mikebirdy-toys.jpg"
   },
   {
-    "id": 4,
+    "id": 64,
     "name": "Шнуровка D",
     "price": 15,
     "image": "data/pexels-mikebirdy-toys.jpg"
   },
   {
-    "id": 5,
+    "id": 65,
     "name": "Пирамидка E",
     "price": 30,
     "image": "data/pexels-mikebirdy-toys.jpg"
   },
   {
-    "id": 6,
+    "id": 66,
     "name": "Мягкая кукла F",
     "price": 40,
     "image": "data/pexels-mikebirdy-toys.jpg"
   },
   {
-    "id": 7,
+    "id": 67,
     "name": "Кукольная кроватка G",
     "price": 100,
     "image": "data/pexels-mikebirdy-toys.jpg"
   },
   {
-    "id": 8,
+    "id": 68,
     "name": "Машинка H",
     "price": 50,
     "image": "data/pexels-mikebirdy-toys.jpg"
   },
   {
-    "id": 9,
+    "id": 69,
     "name": "Деревянный конструктор I",
     "price": 150,
     "image": "data/pexels-mikebirdy-toys.jpg"
   },
   {
-    "id": 10,
+    "id": 70,
     "name": "Игрушечная кухня J",
     "price": 120,
     "image": "data/pexels-mikebirdy-toys.jpg"
   },
   {
-    "id": 11,
+    "id": 71,
     "name": "Домино K",
     "price": 40,
     "image": "data/pexels-mikebirdy-toys.jpg"
   },
   {
-    "id": 12,
+    "id": 72,
     "name": "Игрушечные фрукты L",
     "price": 80,
     "image": "data/pexels-mikebirdy-toys.jpg"
   },
   {
-    "id": 13,
+    "id": 73,
     "name": "Металлический конструктор M",
     "price": 200,
     "image": "data/pexels-mikebirdy-toys.jpg"
   },
   {
-    "id": 14,
+    "id": 74,
     "name": "Набор посуды N",
     "price": 50,
     "image": "data/pexels-mikebirdy-toys.jpg"
   },
   {
-    "id": 15,
+    "id": 75,
     "name": "Ксилофон O",
     "price": 40,
     "image": "data/pexels-mikebirdy-toys.jpg"
   },
   {
-    "id": 16,
+    "id": 76,
     "name": "Детский барабан P",
     "price": 40,
     "image": "data/pexels-mikebirdy-toys.jpg"
   },
   {
-    "id": 17,
+    "id": 77,
     "name": "Детская гитара Q",
     "price": 130,
     "image": "data/pexels-mikebirdy-toys.jpg"
   },
   {
-    "id": 18,
+    "id": 78,
     "name": "Магнитная доска R",
     "price": 140,
     "image": "data/pexels-mikebirdy-toys.jpg"
   },
   {
-    "id": 19,
+    "id": 79,
     "name": "Меловая доска S",
     "price": 120,
     "image": "data/pexels-mikebirdy-toys.jpg"
   },
   {
-    "id": 20,
+    "id": 80,
     "name": "Напольный пазл T",
     "price": 70,
     "image": "data/pexels-mikebirdy-toys.jpg"
   },
   {
-    "id": 21,
+    "id": 81,
     "name": "Набор игрушек инструментов U",
     "price": 80,
     "image": "data/pexels-mikebirdy-toys.jpg"
   },
   {
-    "id": 22,
+    "id": 82,
     "name": "Кукольный домик V",
     "price": 250,
     "image": "data/pexels-mikebirdy-toys.jpg"
   },
   {
-    "id": 23,
+    "id": 83,
     "name": "Магнитная азбука W",
     "price": 60,
     "image": "data/pexels-mikebirdy-toys.jpg"
   },
   {
-    "id": 24,
+    "id": 84,
     "name": "Детская палатка X",
     "price": 170,
     "image": "data/pexels-mikebirdy-toys.jpg"
   },
   {
-    "id": 25,
+    "id": 85,
     "name": "Пальчиковые куклы Y",
     "price": 50,
     "image": "data/pexels-mikebirdy-toys.jpg"
   },
   {
-    "id": 26,
+    "id": 86,
     "name": "Объемный пазл Z",
     "price": 60,
     "image": "data/pexels-mikebirdy-toys.jpg"
   },
   {
-    "id": 27,
+    "id": 87,
     "name": "Игрушечная железная дорога A",
     "price": 200,
     "image": "data/pexels-mikebirdy-toys.jpg"
   },
   {
-    "id": 28,
+    "id": 88,
     "name": "Набор для театра теней B",
     "price": 60,
     "image": "data/pexels-mikebirdy-toys.jpg"
   },
   {
-    "id": 29,
+    "id": 89,
     "name": "Качалка C",
     "price": 120,
     "image": "data/pexels-mikebirdy-toys.jpg"
   },
   {
-    "id": 30,
+    "id": 90,
     "name": "Плюшевая игрушка D",
     "price": 30,
     "image": "data/pexels-mikebirdy-toys.jpg"
