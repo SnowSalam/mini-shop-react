@@ -42,5 +42,6 @@
   "devDependencies": {
     "gh-pages": "^6.3.0"
   },
-  "homepage": "https://SnowSalam.github.io/mini-shop-react"
+  "homepage": "https://SnowSalam.github.io/mini-shop-react",
+  "proxy": "http://127.0.0.1:5000"
 }

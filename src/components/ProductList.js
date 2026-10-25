@@ -9,9 +9,11 @@ function ProductList({ selectedCategory, onAddToCart }) {
     useEffect(() => {
         if (!selectedCategory) return;
 
-        const filePath = `/data/${selectedCategory.file}`;
-        fetch(filePath)
-        .then((res) => res.json())
+        fetch(`/api/products?category=${encodeURIComponent(selectedCategory.slug)}`)
+        .then((res) => {
+            if (!res.ok) throw new Error(`HTTP ${res.status}`);
+            return res.json();
+        })
         .then(setProduct)
         .catch(console.error);
     }, [selectedCategory]);

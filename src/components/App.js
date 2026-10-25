@@ -13,8 +13,11 @@ function App() {
     const [isCartOpen, setCartOpen] = useState(false);
 
     useEffect(() => {
-        fetch('/data/categories.json')
-        .then((res) => res.json())
+        fetch('/api/categories')
+        .then((res) => {
+            if (!res.ok) throw new Error(`HTTP ${res.status}`);
+            return res.json();
+        })
         .then(setCategories)
         .catch(console.error);
     }, []);
